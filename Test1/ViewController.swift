@@ -13,11 +13,9 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         test()
     }
-    
-    func test() {
-        
-    }
 
+    func test() {
+    }
 
 }
 
