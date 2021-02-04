@@ -11,9 +11,11 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        let x = 1
+        test()
     }
 
+    func test() {
+    }
 
 }
 
